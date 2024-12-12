@@ -1,0 +1,15 @@
+/Users/celinetrammi/Documents/Personal/AdventOfCode/AdventOfCode2024/bin/Debug/net8.0/AdventOfCode2024
+/Users/celinetrammi/Documents/Personal/AdventOfCode/AdventOfCode2024/bin/Debug/net8.0/AdventOfCode2024.deps.json
+/Users/celinetrammi/Documents/Personal/AdventOfCode/AdventOfCode2024/bin/Debug/net8.0/AdventOfCode2024.runtimeconfig.json
+/Users/celinetrammi/Documents/Personal/AdventOfCode/AdventOfCode2024/bin/Debug/net8.0/AdventOfCode2024.dll
+/Users/celinetrammi/Documents/Personal/AdventOfCode/AdventOfCode2024/bin/Debug/net8.0/AdventOfCode2024.pdb
+/Users/celinetrammi/Documents/Personal/AdventOfCode/AdventOfCode2024/obj/Debug/net8.0/AdventOfCode2024.GeneratedMSBuildEditorConfig.editorconfig
+/Users/celinetrammi/Documents/Personal/AdventOfCode/AdventOfCode2024/obj/Debug/net8.0/AdventOfCode2024.AssemblyInfoInputs.cache
+/Users/celinetrammi/Documents/Personal/AdventOfCode/AdventOfCode2024/obj/Debug/net8.0/AdventOfCode2024.AssemblyInfo.cs
+/Users/celinetrammi/Documents/Personal/AdventOfCode/AdventOfCode2024/obj/Debug/net8.0/AdventOfCode2024.csproj.CoreCompileInputs.cache
+/Users/celinetrammi/Documents/Personal/AdventOfCode/AdventOfCode2024/obj/Debug/net8.0/AdventOfCode2024.sourcelink.json
+/Users/celinetrammi/Documents/Personal/AdventOfCode/AdventOfCode2024/obj/Debug/net8.0/AdventOfCode2024.dll
+/Users/celinetrammi/Documents/Personal/AdventOfCode/AdventOfCode2024/obj/Debug/net8.0/refint/AdventOfCode2024.dll
+/Users/celinetrammi/Documents/Personal/AdventOfCode/AdventOfCode2024/obj/Debug/net8.0/AdventOfCode2024.pdb
+/Users/celinetrammi/Documents/Personal/AdventOfCode/AdventOfCode2024/obj/Debug/net8.0/AdventOfCode2024.genruntimeconfig.cache
+/Users/celinetrammi/Documents/Personal/AdventOfCode/AdventOfCode2024/obj/Debug/net8.0/ref/AdventOfCode2024.dll

@@ -1,0 +1,1 @@
+﻿Console.WriteLine(Day11.Result());
